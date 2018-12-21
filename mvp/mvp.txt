@@ -1,0 +1,46 @@
+basic understanding of i-waiter
+i-waiter is a food ordering system for restaurants or legit industries in the food
+industry who want to sell their products online but lack the capital/time
+to create a well functioning online ordering system
+i-waiter will be available to anyone and everyone it provides a way to manage ur business
+cash inflow (manage cash,inventory)..basically once you register you get your hr dept
+...
+registration is negotiable prices...
+ie ur name,your email,your restaurant name to get started
+...other info eg such as alink to your webpage ,payment method ie
+through online orders ,delivery of foods are functionalities our team will be
+helpful to set them up for you..we will provide support 24/7
+...no hidden costs
+..
+
+the services offered by i-waiter will be 2 options
+..help you setup two systems:
+online food ordering(normal ordering service ..let us take your hotel/bistro/coffee hse online)
+inhouse food ordering
+both
+
+inhouse food ordering systems
+once this system is implemented..ill just give a rough example
+client walks in ,on the table there is a tablet,/client is handed tablet by the waiter
+..on tablet is the menu
+client clicks on menu,selects food/drink he wants..presses ok
+(can be displayed at side of menu)a receipt with total and food ordered is displayed..presses ok if satisfied
+..presses back to make changes
+payment method page pops up..ie debit,credit,paypal,mpesa
+client selects payment method...follows process to pay.
+once done confirmation message is shown presses okay..
+timer starts on his meal..
+page changes to main home page of restaurant...
+ie about restaurant,cool pics and slideshows,
+how food is made short video,
+won awards etc..
+
+in kitchen
+on huge screen a notification is shown with tablet no as table number
+and the order..timer begins to time delivery time.once done the system has an array
+that loops through waiters and selects each to take an order.
+the staff site has additional functions...
+staff login ..on login if username has # logins as a chef..sees duties and extra
+if you login as manager you see orders,inventory and basically everything..
+
+i-waiter is integrated into your system creators offer support services.
